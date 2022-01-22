@@ -19,7 +19,7 @@
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.1",
     "mongoose": "^5.9.11",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "table2csv": "^1.1.4",
